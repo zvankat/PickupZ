@@ -1,0 +1,4 @@
+name: PickupZ
+version: '1.0-SNAPSHOT'
+main: ru.minecraft.pickupz.PickupZ
+api-version: '1.21'

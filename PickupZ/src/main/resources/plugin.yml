@@ -1,0 +1,4 @@
+name: PickupZ
+version: '${project.version}'
+main: ru.minecraft.pickupz.PickupZ
+api-version: '1.21'
